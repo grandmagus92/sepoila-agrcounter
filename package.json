@@ -1,7 +1,7 @@
 {
-  "name": "agrapps",
-  "version": "0.1.0",
-  "private": true,
+  "name": "sepolia-agrcounter",
+  "version": "0.1.1",
+  
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -19,5 +19,20 @@
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "typescript": "^5"
-  }
+  },
+  "description": "This is counter apps in sepolia chain testnet By grandmagus92",
+  "main": "page.tsx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grandmagus92/sepolia-agrcounter"
+  },
+  "keywords": [
+    "counter"
+  ],
+  "author": "grandmagus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grandmagus92/sepolia-agrcounter/issues"
+  },
+  "homepage": "https://github.com/grandmagus92/sepolia-agrcounter#readme"
 }
